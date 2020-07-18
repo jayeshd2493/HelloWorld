@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0A7D-8713
+
+ Directory of C:\Jayesh\Projects\JavaDemo
+
+07/18/2020  01:26 PM    <DIR>          .
+07/18/2020  01:26 PM    <DIR>          ..
+07/18/2020  01:24 PM               686 HelloWorld.class
+07/18/2020  12:52 PM               161 HelloWorld.java
+07/18/2020  01:26 PM                 0 pooja.txt
+07/18/2020  01:22 PM               463 Readme.txt
+               4 File(s)          1,310 bytes
+               2 Dir(s)  327,632,494,592 bytes free
